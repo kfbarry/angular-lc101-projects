@@ -1,0 +1,9 @@
+.vertical {
+  border-left: 1px dashed black;
+  height: 300px;
+}
+
+.horizontal {
+  border-top: 2px solid black;
+  width: 100%;
+}
